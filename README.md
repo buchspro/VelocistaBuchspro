@@ -2,11 +2,13 @@
 Robot velocista siguelineas profesional. Buchspro.com
 
 Este proyecto trata de un robot siguelineas de velocidad para carreras profesionales y competiciones.
-El robot está basado en tres placas:
+El robot está basado en tres placas
 
-  Placa de sensores Buchspro: Placa de sensores. https://buchspro.com/producto/buchsense
-  Placa BuchShield : shield para velocista. https://buchspro.com/producto/buchshield
-  Placa BuchsTooth : Placa del Controlador https://buchspro.com/producto/buchstooth
+ Placa de sensores Buchspro: Placa de sensores. https://buchspro.com/producto/buchsense
+ 
+ Placa BuchShield : shield para velocista. https://buchspro.com/producto/buchshield
+ 
+ Placa BuchsTooth : Placa del Controlador https://buchspro.com/producto/buchstooth
 
 El código trata de sacar una posición del robot en la línea, y corregir el error mediante un algoritmo PID.
 
